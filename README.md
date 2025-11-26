@@ -20,19 +20,14 @@ This project is part of the [Coursera Guided Project: Data Analysis Using PySpar
 - **PySpark** - Distributed data processing framework
 - **Apache Spark** - Big data processing engine
 - **Python** - Programming language
-- **Matplotlib** - Data visualization
 - **Pandas** - Data manipulation (for visualization)
 
 ### Skills Practiced
 - Distributed Computing
 - Big Data Processing
 - Data Analysis
-- Data Visualization
-- Data Management
 - Data Cleansing
-- Query Languages
 - Data Manipulation
-- Data Processing
 
 ## 📊 Dataset
 
@@ -58,8 +53,6 @@ The project uses two CSV files from Last.fm:
 ### 2. User Behavior Analysis
 - **Query 1**: Find all records of users who listened to specific artists (e.g., Rihanna)
 - **Query 2**: Identify top 10 users who are fans of specific artists
-- **Query 6**: Find top 10 users who are fans of pop music
-- **Query 8**: Determine each user's favorite genre
 
 ### 3. Music Popularity Analysis
 - **Query 3**: Find top 10 most streamed tracks across all artists
@@ -72,10 +65,6 @@ The project uses two CSV files from Last.fm:
 ### 5. Genre Analysis
 - **Query 9**: Count artists by genre (pop, rock, metal, hip hop)
 - Genre distribution visualization using matplotlib
-
-### 6. Data Integration
-- Inner join between listening data and genre data
-- Combined analysis of listening patterns with genre information
 
 ## 📈 Key Insights
 
@@ -134,8 +123,8 @@ coursera-data-analysis-using-pyspark/
 
 ## 🎓 Certification
 
-This project was completed as part of the Coursera Guided Project: **Data Analysis Using PySpark** by Ahmad Varasteh.
-View certification: ['link'](https://www.coursera.org/account/accomplishments/records/7IOEWG1NMR0E)
+- This project was completed as part of the Coursera Guided Project: **Data Analysis Using PySpark** by Ahmad Varasteh.
+- View certification: ['link'](https://www.coursera.org/account/accomplishments/records/7IOEWG1NMR0E)
 
 ## 💡 Key Takeaways
 
